@@ -1,0 +1,15 @@
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\bin\Debug\net8.0\FuncionesLambda.exe
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\bin\Debug\net8.0\FuncionesLambda.deps.json
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\bin\Debug\net8.0\FuncionesLambda.runtimeconfig.json
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\bin\Debug\net8.0\FuncionesLambda.dll
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\bin\Debug\net8.0\FuncionesLambda.pdb
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.AssemblyInfoInputs.cache
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.AssemblyInfo.cs
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.sourcelink.json
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.dll
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\refint\FuncionesLambda.dll
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.pdb
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\FuncionesLambda.genruntimeconfig.cache
+C:\PROYECTOS\EDAT\EDAT_G2_JD25_P01\EDAT_G2_JD25_P01\FuncionesLambda\obj\Debug\net8.0\ref\FuncionesLambda.dll
